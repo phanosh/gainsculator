@@ -1,7 +1,8 @@
 
 # 🏋️‍♂️ GainsCulator 🏋️‍♀️
 
-Available at phanosha.com/gainsculator
+Available at [phanosha.com/gainsculator](http://phanosha.com/gainsculator)
+
 Welcome to **GainsCulator**, the ultimate tool to calculate your strength levels based on your lifts! Whether you're squatting, bench pressing, or deadlifting, find out if you're a **Noob**, **Beginner**, **Intermediate**, **Advanced**, **Elite**, or a **Freak**! 🚀
 
 ## 🌟 Features
